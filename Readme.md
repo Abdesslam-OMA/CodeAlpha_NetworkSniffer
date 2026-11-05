@@ -118,5 +118,3 @@ Payload inspection is limited to a small hexadecimal sample. HTTPS application d
 ## Author
 
 Developed as part of the **CodeAlpha Cyber Security Internship – Task 1: Basic Network Sniffer**.
-
-**GitHub Repository:** https://github.com/Abdesslam-OMA/CodeAlpha_NetworkSniffer
